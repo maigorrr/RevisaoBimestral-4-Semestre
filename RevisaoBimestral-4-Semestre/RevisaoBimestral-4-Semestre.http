@@ -1,0 +1,6 @@
+@RevisaoBimestral_4_Semestre_HostAddress = http://localhost:5250
+
+GET {{RevisaoBimestral_4_Semestre_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
